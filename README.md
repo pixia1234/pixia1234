@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Pixia1234!
 
-<!--
-**pixia1234/pixia1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Network Engineering | Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+💻 Passionate about building, breaking, and understanding systems — from **network protocols** to **machine learning models** and **large language models (LLMs)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 🌐 Interested in **Network Engineering**, **CTF Challenges**, **Machine Learning**, and **LLMs**
+- 💬 Fluent in **Chinese**, **Japanese**, and **English**
+- 🔧 Skilled in **Python**, **C++**, **Go**, and more
+- 🌱 Constantly learning and exploring cutting-edge technologies
+- 📫 Reach me at **pixia2005@gmail.com**
+
+---
+
+### ⚙️ Tech Stack
+```text
+Languages:   Python | C++ | Go | Bash
+Domains:     Network Engineering | CTF | Machine Learning | LLMs
+Tools:       Linux | Photoshop | Postman | PyTorch 
