@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pixia (Quanyu)
+# 👋 Hi, I’m Pixia1234
 
 [![Followers](https://img.shields.io/github/followers/pixia1234?style=social)](https://github.com/pixia1234?tab=followers)
 [![Stars](https://img.shields.io/github/stars/pixia1234?style=social)](https://github.com/pixia1234?tab=repositories)
