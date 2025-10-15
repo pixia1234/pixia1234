@@ -40,7 +40,7 @@ I enjoy building things from scratch, automating tasks, and learning through exp
 | [**common_shells**](https://github.com/pixia1234/common_shells) | A curated collection of shell scripts for daily automation and configuration. | Shell |
 | [**pixia.github.io**](https://github.com/pixia1234/pixia.github.io) | My personal static site and blog playground. | HTML · SCSS |
 | [**C-language**](https://github.com/pixia1234/C-language) | Classic C practice projects and small algorithm demos. | C |
-| [**math_notes**](https://github.com/pixia1234/math_notes) / [**topology_notes**](https://github.com/pixia1234/topology_notes) | Notes and references from my mathematics studies. | Markdown |
+| [**super-clipboard**](https://github.com/pixia1234/super-clipboard) | A Typescript project for direct link support clipboard. | TypeScript |
 
 ---
 
