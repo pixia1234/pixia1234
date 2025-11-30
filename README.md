@@ -58,9 +58,8 @@ I enjoy building things from scratch, automating tasks, and learning through exp
 
 ## 📈 GitHub Stats
 
-[![Pixia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pixia1234&show_icons=true&theme=radical&hide=contribs)](https://github.com/pixia1234)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixia1234&layout=compact&theme=radical)](https://github.com/pixia1234)
-
+[![Pixia’s GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pixia1234)](https://github.com/pixia1234)  
+[![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pixia1234)](https://github.com/pixia1234)
 ---
 
 ## 🗺️ Current Goals
